@@ -1,6 +1,6 @@
 # t3 gallery
 ## TODO
-- [] Make a deploy
+- [x] Make a deploy
 - [] Scaffold with mock data
 - [] Set up database
 - [] attach database to UI
