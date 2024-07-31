@@ -3,8 +3,8 @@
 - [x] Make a deploy
 - [x] Scaffold with mock data
 - [x] Tidy up build process
-- [] Set up database
-- [] attach database to UI
+- [x] Set up database
+- [x] attach database to UI
 - [] add auth
 - [] add image upload
 - [] error
